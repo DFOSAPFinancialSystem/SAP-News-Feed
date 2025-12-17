@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>S4/HANA News Feed</title>
+    <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1440</link>
+    <description>Latest updates from the S4/HANA News Team</description>    
+
+   
+   <item>
+       <title>Training and Troubleshooting Services </title>
+       <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1433</link>
+       <description><![CDATA[Need help troubleshooting a transaction or have a question? Submit a ticket in Solution Manager under the Training Support service category and a Training Officer will answer your ticket as soon as possible!]]></description>
+       <pubDate> 2025-12-12T19:15:00Z</pubDate>
+       
+
+     </item>    
+
+   
+   <item>
+       <title>Services de formation et de dépannage </title>
+       <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/fr/node/1433</link>
+       <description><![CDATA[Besoin d'aide pour résoudre un problème lors d'une transaction ou une question ? Soumettez un billet dans Solution Manager, dans la catégorie « Soutien à la formation », et une agente de formation vous répondra dans les plus brefs délais !]]></description>
+       <pubDate> 2025-12-12T19:15:00Z</pubDate>
+       
+
+     </item>    
+
+   
+   <item>
+       <title>BI Launchpad Bookmarks Fix</title>
+       <link>https://engage.cloud.microsoft/main/org/dfo-mpo.gc.ca/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzYzMzY4NDI4NTIxODgxNiJ9/eyJfdHlwZSI6Ik1lc3NhZ2UiLCJpZCI6IjM2MzM2ODQyODUyMTg4MTYifQ</link>
+       <description><![CDATA[🔧​ Hot Fix! Users will no longer lose bookmarks and saved reports inside of BI Launchpad when they lose access to their persona or get an update.]]></description>
+       <pubDate> 2025-12-12T16:04:21Z</pubDate>
+       
+
+     </item>    
+
+   
+   <item>
+       <title>Correction des signets de BI Launchpad</title>
+       <link>https://engage.cloud.microsoft/main/org/dfo-mpo.gc.ca/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzYzMzY4Mzg0Nzk3OTAwOCJ9/eyJfdHlwZSI6Ik1lc3NhZ2UiLCJpZCI6IjM2MzM2ODM4NDc5NzkwMDgifQ</link>
+       <description><![CDATA[🔧 ​Correctif urgent ! Les utilisateurs ne perdront plus leurs favoris ni leurs rapports enregistrés dans BI Launchpad lorsqu'ils perdent l'accès à leur compte ou reçoivent une mise à jour.]]></description>
+       <pubDate> 2025-12-12T16:03:54Z</pubDate>
+       
+
+     </item>    
+
+   
+   <item>
+       <title>Improvements to the GAC approval process</title>
+       <link>https://intranet.ent.dfo-mpo.ca/mpo/en/node/16665</link>
+       <description><![CDATA[📣​The CAG dashboard has just been updated! Key features include better alignment of workflows and approvals with Section 34 requirements, the reject feature returning transactions to AP coders for correction, the removal of the "Edit GCC" option, and much more. This update will be available on December 15. To learn more about the latest enhancements, check out our overview and the SAP Coffee Break Recording.]]></description>
+       <pubDate> 2025-12-12T15:56:00Z</pubDate>
+       
+
+     </item>    
+
+   
+   <item>
+       <title>Améliorations au processus d’approbation du CAG</title>
+       <link>https://intranet.ent.dfo-mpo.ca/mpo/en/node/16665</link>
+       <description><![CDATA[📣​ Le tableau de bord CAG vient d'être mis à jour ! Les principales fonctionnalités comprennent un meilleur alignement des flux de travail et des approbations avec les exigences de la section 34, la fonction de rejet renvoyant les transactions aux codeurs AP pour correction, la suppression de l'option « Modifier le GCC » et bien plus encore. Cette mise à jour sera disponible le 15 décembre. Pour en savoir plus sur les dernières améliorations, consultez notre présentation et l'enregistrement de pause-café SAP.]]></description>
+       <pubDate> 2025-12-12T15:55:00Z</pubDate>
+       
+
+     </item>  </channel>
+</rss>
