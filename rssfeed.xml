@@ -38,7 +38,7 @@
 
    
    <item>
-       <title>Other
+       <title>Autre
 </title>
        <link>https://engage.cloud.microsoft/main/org/dfo-mpo.gc.ca/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzYzMzY4Mzg0Nzk3OTAwOCJ9/eyJfdHlwZSI6Ik1lc3NhZ2UiLCJpZCI6IjM2MzM2ODM4NDc5NzkwMDgifQ</link>
        <description><![CDATA[🔧 ​Correctif urgent ! Les utilisateurs ne perdront plus leurs favoris ni leurs rapports enregistrés dans BI Launchpad lorsqu'ils perdent l'accès à leur compte ou reçoivent une mise à jour.]]></description>
@@ -56,5 +56,17 @@
        <pubDate> 2025-12-12T15:56:34Z</pubDate>
        
 
-     </item>  </channel>
+     </item>
+
+      <item>
+       <title>Annonce
+</title>
+       <link>https://engage.cloud.microsoft/main/org/dfo-mpo.gc.ca/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzYzMzY3NTI4NjU3NzE1MiJ9/eyJfdHlwZSI6Ik1lc3NhZ2UiLCJpZCI6IjM2MzM2NzUyODY1NzcxNTIifQ</link>
+       <description><![CDATA[📣​ Le tableau de bord CAG vient d'être mis à jour ! Les principales fonctionnalités comprennent un meilleur alignement des flux de travail et des approbations avec les exigences de la section 34, la fonction de rejet renvoyant les transactions aux codeurs AP pour correction, la suppression de l'option « Modifier le GCC » et bien plus encore. Cette mise à jour sera disponible le 15 décembre. Pour en savoir plus sur les dernières améliorations, consultez notre présentation et l'enregistrement de pause-café SAP.]]></description>
+       <pubDate> 2025-12-12T15:56:34Z</pubDate>
+       
+
+     </item>
+  
+  </channel>
 </rss>
