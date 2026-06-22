@@ -5,6 +5,24 @@
     <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1440</link>
     <description>Latest updates from the S4/HANA News Team</description>
 
+    <item>
+       <title>Manual Travel Commitments Reminder</title>
+       <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/2446</link>
+       <description><![CDATA[This is a reminder that manual travel commitments are only required when there is no booking completed in NEO. When a booking has not been completed in NEO, a manual travel commitment must be created in SAP. To ensure the travel expense is processed correctly, the commitment must meet the following requirements: 1. The commitment must include two lines: Line 1: Travel expenses - Line 2: Administration fees 2. The Travel Authorization Number (TAN) must also be included in the Reference field.]]></description>
+       <pubDate> 2025-12-12T19:15:00Z</pubDate>
+       
+
+     </item>
+
+    <item>
+       <title>Rappel des engagements de voyage manuels</title>
+       <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/fr/node/2446</link>
+       <description><![CDATA[Nous vous rappelons que les engagements de voyage manuels ne sont requis que lorsqu’aucune réservation n’est effectuée dans NEO. Lorsqu’une réservation n’a pas été effectuée dans NEO, un engagement de voyage manuel doit être créé dans SAP. Pour garantir que les frais de voyage sont traités correctement, l’engagement doit répondre aux exigences suivantes : 1. L’engagement doit comporter deux lignes : Ligne 1 : Frais de déplacement - Ligne 2 : Frais d’administration 2. Le numéro d’autorisation de voyage (NAV) doit également être inclus dans le champ Référence.]]></description>
+       <pubDate> 2025-12-12T19:15:00Z</pubDate>
+       
+
+     </item>   
+
 <item>
        <title>Training and Troubleshooting Services</title>
        <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1433</link>
@@ -37,24 +55,6 @@
        <title>Réseau des tests d’acceptation des utilisateurs SAP</title>
        <link>https://forms.office.com/Pages/ResponsePage.aspx?id=rv2UFdmhBUSRXQEUZyNDOH140wz8vuBIj7M16L-pFcBUODJIMFlQNkRFTElIUUowRTA0TThMQTYxSy4u</link>
        <description><![CDATA[Rejoignez le réseau de tests d'acceptation utilisateur SAP et aidez à façonner les améliorations du système avant leur mise en production. La participation est volontaire et offre la possibilité de contribuer directement à l'amélioration des outils SAP, des processus et de l'expérience utilisateur globale.]]></description>
-       <pubDate> 2025-12-12T19:15:00Z</pubDate>
-       
-
-     </item> 
-
-    <item>
-       <title>2026-27 Release Notes</title>
-       <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1813</link>
-       <description><![CDATA[We’re constantly working to improve SAP so you can have a great experience. In the April 30 release, we’ve made some performance enhancements and fixed a few minor bugs. Check out the full release notes on the Intranet.]]></description>
-       <pubDate> 2025-12-12T19:15:00Z</pubDate>
-       
-
-     </item> 
-
-       <item>
-       <title>Mises à jour programmées 2026-2027</title>
-       <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/fr/node/1813</link>
-       <description><![CDATA[Nous travaillons sans cesse d'améliorer SAP afin de vous offrir une expérience optimale. Dans la mise à jour du 30 avril, nous avons apporté des améliorations en termes de performances et corrigé quelques bugs mineurs. Consultez les notes de relâche complètes sur l'intranet.]]></description>
        <pubDate> 2025-12-12T19:15:00Z</pubDate>
        
 
