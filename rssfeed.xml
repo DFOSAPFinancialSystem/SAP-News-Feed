@@ -6,26 +6,19 @@
     <description>Latest updates from the S4/HANA News Team</description>
 
     <item>
-       <title>Approval workflow for select Purchase Requisitions</title>
+       <title>CITRIX Applications – Scheduled Maintenance</title>
        <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1813</link>
-       <description><![CDATA[Effective Monday August 17, 2026, the approval workflow for select purchase requisitions (PR) has been streamlined. The following PR types will no longer be routed to a Procurement Clerk for review and will instead route directly to the CCM for approval:
-- ZLDV: Purchase requisitions valued at $17,000 or more
-- ZEXT: Purchase requisitions valued at $10,000 or more
-]]></description>
+       <description><![CDATA[CITRIX related SAP applications will be unavailable Tuesday August 18 from 6 p.m. to 9 p.m. ET for routine maintenance. SAP Fiori production will remain available. Please plan your work accordingly.]]></description>
        <pubDate> 2025-12-12T19:15:00Z</pubDate>
        
 
      </item>
 
     <item>
-       <title>Processus d’approbation de certaines demandes d’achat </title>
+       <title>Applications CITRIX – Maintenance planifiée</title>
        <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/fr/node/1813</link>
-       <description><![CDATA[À compter du lundi 17 août 2026, le processus d’approbation de certaines demandes d’achat a été simplifié. Les types de DA suivants ne seront plus acheminés à un commis à l’approvisionnement pour examen, mais seront acheminés directement au GCC pour approbation :
-- ZLDV : demandes d’achat d’une valeur de 17 000 $ ou plus
-- ZEXT : demandes d’achat d’une valeur de 10 000 $ ou plus
-]]></description>
+       <description><![CDATA[Les applications SAP liées à CITRIX ne seront pas disponibles le mardi 18 août de 18 h à 21 h HE pour la maintenance de routine. La production de SAP Fiori restera disponible. Veuillez planifier votre travail en conséquence.]]></description>
        <pubDate> 2025-12-12T19:15:00Z</pubDate>
-       
 
      </item>   
 
