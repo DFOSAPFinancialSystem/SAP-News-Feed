@@ -8,14 +8,14 @@
  <item>
        <title>Issues with the Upload of GAC Transactions</title>
        <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1813</link>
-       <description><![CDATA[Please be advised that we are currently experiencing issues with the upload of GAC transactions. The last successful upload was completed on September 11. As a result, any GAC transactions submitted after this date may not yet be reflected in the system. We are actively investigating the issue and working toward a resolution. Further information and updates will be provided as they become available.]]></description>
+       <description><![CDATA[All GAC transactions from September 14 to October 2 have now been successfully uploaded and are available for processing. Please note that these previously missing transactions were loaded with a processing date of November 1. During the upload of corrected files, some users may see duplicate debit transactions for items dated after October 3. These duplicates were automatically offset by corresponding credit transactions provided by National Bank, resulting in no net financial impact. If duplicate transactions appear during reconciliation, users can resolve them by reconciling both the duplicate debit and the matching credit transaction together.]]></description>
        <pubDate> 2025-12-12T19:15:00Z</pubDate>
      </item>
 
    <item>
        <title>Problèmes avec le téléchargement des transactions par CAG</title>
        <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/fr/node/1813</link>
-       <description><![CDATA[Veuillez noter que nous éprouvons actuellement des problèmes avec le téléchargement des transactions par CAG. Le dernier téléchargement réussi a eu lieu le 11 septembre. Par conséquent, les transactions par CAG soumises après cette date peuvent ne pas encore être reflétées dans le système. Nous enquêtons activement sur le problème et travaillons à une résolution. De plus amples renseignements et des mises à jour seront fournis dès qu’ils seront disponibles.]]></description>
+       <description><![CDATA[Toutes les transactions effectuées par CAG du 14 septembre au 2 octobre ont été téléchargées avec succès et peuvent être traitées. Veuillez noter que ces transactions précédemment manquantes ont été chargées avec une date de traitement du 1er novembre. Lors du téléversement des fichiers corrigés, certains utilisateurs peuvent voir des transactions de débit en double pour des éléments datés après le 3 octobre. Ces doublons ont été automatiquement compensés par les transactions de crédit correspondantes fournies par la Banque Nationale, ce qui n’a eu aucune incidence financière nette. Si des transactions en double apparaissent pendant le rapprochement, les utilisateurs peuvent les résoudre en rapprochant à la fois la transaction de débit en double et la transaction de crédit correspondante.]]></description>
        <pubDate> 2025-12-12T19:15:00Z</pubDate>
      </item>
 
