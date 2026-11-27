@@ -5,6 +5,25 @@
     <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1440</link>
     <description>Latest updates from the S4/HANA News Team</description>
 
+    <item>
+       <title>SAP Training Library Now on GC Exchange</title>
+       <link>https://gcxgce.sharepoint.com/teams/10003894/SitePages/Using-SAP.aspx</link>
+       <description><![CDATA[The SAP Training Library has moved from the DFO Intranet to GC Exchange and will officially go live on November 30, 2026. Going forward, all SAP training materials, job aids, learning resources, and course updates will be maintained exclusively on GC Exchange to ensure users have access to the most current content.]]></description>
+       <pubDate> 2025-12-12T19:15:00Z</pubDate>
+       
+
+     </item>    
+
+   
+   <item>
+       <title>La bibliothèque de formation SAP est maintenant sur GC Exchange</title>
+       <link>https://gcxgce.sharepoint.com/teams/10003894/SitePages/fr/Using-SAP.aspx</link>
+       <description><![CDATA[La bibliothèque de formation SAP a été transférée de l'intranet du MPO vers GC Exchange et sera officiellement mise en service le 30 novembre 2026. À l'avenir, tout le matériel de formation SAP, les aides d'exécution, les ressources d'apprentissage et les mises à jour des cours seront maintenus exclusivement sur GC Exchange afin de garantir l'accès au contenu le plus récent.]]></description>
+       <pubDate> 2025-12-12T19:15:00Z</pubDate>
+       
+
+     </item> 
+
  <item>
        <title>GAC Transactions Available for Processing</title>
        <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1813</link>
@@ -18,25 +37,6 @@
        <description><![CDATA[Toutes les transactions effectuées par CAG du 14 septembre au 2 octobre ont été téléchargées avec succès et peuvent être traitées. Veuillez noter que ces transactions précédemment manquantes ont été chargées avec une date de traitement du 1er novembre. Lors du téléversement des fichiers corrigés, certains utilisateurs peuvent voir des transactions de débit en double pour des éléments datés après le 3 octobre. Ces doublons ont été automatiquement compensés par les transactions de crédit correspondantes fournies par la Banque Nationale, ce qui n’a eu aucune incidence financière nette. Si des transactions en double apparaissent pendant le rapprochement, les utilisateurs peuvent les résoudre en rapprochant à la fois la transaction de débit en double et la transaction de crédit correspondante.]]></description>
        <pubDate> 2025-12-12T19:15:00Z</pubDate>
      </item>
-
-<item>
-       <title>Training and Troubleshooting Services</title>
-       <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/en/node/1433</link>
-       <description><![CDATA[Need help troubleshooting a transaction or have a question? Submit a ticket in Solution Manager under the Training Support service category and a Training Officer will answer your ticket as soon as possible!]]></description>
-       <pubDate> 2025-12-12T19:15:00Z</pubDate>
-       
-
-     </item>    
-
-   
-   <item>
-       <title>Services de formation et de dépannage</title>
-       <link>https://intranet.ent.dfo-mpo.ca/cfo-dpf/fr/node/1433</link>
-       <description><![CDATA[Besoin d'aide pour résoudre un problème lors d'une transaction ou une question ? Soumettez un billet dans Solution Manager, dans la catégorie « Soutien à la formation », et une agente de formation vous répondra dans les plus brefs délais !]]></description>
-       <pubDate> 2025-12-12T19:15:00Z</pubDate>
-       
-
-     </item> 
 
     <item>
        <title>Known Issue Notice - SAP Attachments</title>
